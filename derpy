@@ -10,6 +10,7 @@ body {
   font-family: sans-serif
 }
 h1 {
+  color: #365FE3;
   text-align: center;
   font-family: serif;
   font-weight: normal;
@@ -18,6 +19,7 @@ h1 {
 }
 p {
   color: #FFFFFF;
+  background-color: #365FE3;
   font-size; 1em;
 }
 </style>
@@ -25,8 +27,8 @@ p {
 </head>
 
 <body>
-<h1>WOW!</h1>
-<p>You have fallen into my trap</p>
+<h1>GOTCHA!</h1>
+<p>WOW! You have fallen into my trap</p>
 
 </body>
 
